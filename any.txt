@@ -1,3 +1,5 @@
 cout<<hello;
 cout<<new;
 cout<<git is fun;
+cout<<sum;
+
